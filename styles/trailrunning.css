@@ -11,7 +11,7 @@
 	margin-top:40%;
 	}
 	
-	.menuparagraph{
+	.menu, a{
 		margin-right: 15px;
 		font-size: 13px;
 	}
@@ -50,7 +50,7 @@
 }
 
 
-.menuparagraph{
+.menu, a{
 	margin-right: 18px;
 	font-size: 20px;
 }
@@ -96,12 +96,12 @@
 }
 
 
-.myLabels{
+#myForm, label{
 	margin-bottom: 10px;
 	color:black;
 }
 
-.myInputs{
+#myForm, input{
 	margin-bottom: 10px;
 	width: 200px;
 	color: black;
